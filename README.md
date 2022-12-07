@@ -182,40 +182,7 @@ IMPORTANT NOTES
 KNOWN BUGS
 ----------                                                    
 
----
-LOW PRIORITY BUGS
----
-I.E. these bugs are known but are not a priority to fix at the moment.
-
- - input remapping is currently disabled due to bug 
- - spike on audio bus load, causing a pitchy crack at game load
- - some frame lag during startup due to enable_verbose_logging (will not be present in release version)
- - railgun projectile fires at a peculiar angle some of the time
- - pause in-game is disabled; you have to die to exit the game when in-play
-
----
-MEDIUM PRIORITY BUGS
----
-I.E. disappointing bugs I'd like to get fixed before release
-
- - many gameplay sound effects not yet present in stable build
-- sound effects in unstable build are laggy
- - some users report no game music or sound effects
-
- - it is possible to entirely outrun missiles!
-	before release I'm planning to re-introduce (as a temporary
-	measure) a mechanic for the missiles to gain speed the longer they're alive.
-	This is a symptom of having limited enemy/missile types in this version.
-	In a future an improved spawning system, and variety of enemy types, will
-	make it harder to just cheese the game by flying in one direction.
-
----
-HIGH PRIORITY BUGS
----
-I.E. game-breaking bugs; I'm doing my best to address these asap
-
- - no data on perkOptionSelectionPopup, no perk, no enemy types (no waveOptionPair?)
- - selecting perk at perkOptionSelectionPopup crashes game
+These have been moved to the issues section of the repository.
 
 ----------
 
