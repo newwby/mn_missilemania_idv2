@@ -1,11 +1,12 @@
 # mn_missilemania_idv2
 Bugtracking for indev2 release of Monday Night Missilemania
+
 [This repository is for bugtracking only and contains no code]
 
 -- imported prerelease testing readme below
-#
 
-----------
+
+---------------------------------------------------------------------
 MONDAY NIGHT MISSILEMANIA
  ©2022 DanDoesAThing (Daniel Newby)
 [Indev Version 2]
